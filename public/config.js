@@ -16,5 +16,7 @@ window.Config = {
   ShowLink: true,
 
   // 导航栏菜单
-  
+  Navi: [
+    ,
+  ],
 };
