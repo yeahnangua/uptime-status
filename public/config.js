@@ -16,16 +16,5 @@ window.Config = {
   ShowLink: true,
 
   // 导航栏菜单
-  Navi: [
-    {
-      text: 'Homepage',
-      url: 'https://bing.com/'
-    },
-    {
-      text: 'GitHub',
-url: 'https://bing.com/'    },
-    {
-      text: 'Blog',
-url: 'https://bing.com/'    },
-  ],
+  
 };
